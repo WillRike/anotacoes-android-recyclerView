@@ -1,9 +1,9 @@
 # anotacoes-android-recyclerView
 LISTENERS, ANIMAÇÕES E BOAS PRÁTICAS
 
-Implemente listeners no RecyclerView
-Padronize a comunicação entre as Activities
-Adicione listeners para movimentos e animações dos elementos
-Aplique boas práticas de código
-Adicione cores personalizadas para o tema da App
-Implemente animações específicas para o adapter
+* Implementando listeners no RecyclerView
+* Padronizando a comunicação entre as Activities
+* Adicionando listeners para movimentos e animações dos elementos
+* Aplicando boas práticas de código
+* Adicionando cores personalizadas para o tema da App
+* Implementando animações específicas para o adapter
